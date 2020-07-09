@@ -91,7 +91,7 @@ if fa == '1':
 
 
 username = input('username -> ')
-sessionsId = ('37466401585%3AN5MdgOpdHwxEfs%3A10') 
+sessionsId = ('37466401585%3AECgvfYfDAii3V3%3A25') 
 infos = getAllInfos(username,sessionsId)
 
 print("Informations about : "+infos["username"])
