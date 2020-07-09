@@ -24,7 +24,7 @@ Usage of info-instagram for attacking targets without prior mutual consent is il
 
 ![tweet](https://www.up-00.com/i/00184/sme7irntev5c.png)
 
-## sessionsID الحاله مغلقة :
+## sessionsID الحاله مغلقه :
 
 ## Open case briefings :
 
