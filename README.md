@@ -26,7 +26,7 @@ Usage of info-instagram for attacking targets without prior mutual consent is il
 
 ## sessionsID الحاله مغلقه :
 
-## Open case briefings :
+## Open closed briefings :
 
 ## اذا كانت مغلقه ماراح تشتغل الاداة بشكل المطلوب
 ## If it is closed, the tool will not work properly
