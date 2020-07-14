@@ -24,9 +24,9 @@ Usage of info-instagram for attacking targets without prior mutual consent is il
 
 ![tweet](https://www.up-00.com/i/00184/sme7irntev5c.png)
 
-## sessionsID الحاله مغلقه :
+## sessionsID الحاله مفتوحه :
 
-## sessionsID status is no :
+## sessionsID status is open :
 
 ## اذا كانت مغلقه ماراح تشتغل الاداة بشكل المطلوب
 ## If it is closed, the tool will not work properly
