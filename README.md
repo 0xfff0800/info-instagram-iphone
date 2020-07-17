@@ -24,20 +24,8 @@ Usage of info-instagram for attacking targets without prior mutual consent is il
 
 ![tweet](https://www.up-00.com/i/00184/sme7irntev5c.png)
 
-## sessionsID https://youtu.be/J9tZyidk5ac تابع :
+## sessionsID تابع : https://youtu.be/J9tZyidk5ac 
 
- :
-
-## اذا كانت مغلقه ماراح تشتغل الاداة بشكل المطلوب
-## If it is closed, the tool will not work properly
-
-راقب الحاله او اطلبني افتحها لك من جديد
-
-Watch the situation or ask me to open it again for you
-
-sessionsID 
-اذا كان مكتوب الحاله مغلقه ثم ظهر مفتوحه تحتاج نسخ ملف البايثون من جديد
-لان تم تغير 
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
