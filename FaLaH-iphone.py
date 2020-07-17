@@ -6,6 +6,7 @@ import sys
 import os
 import time
 
+
 def recoveryEmail(username):
     return(instagram(username))
 
@@ -76,13 +77,11 @@ def getAllInfos(username,sessionId):
 fa = print('''
 -------------------------------
 .:: Brute force mail Instagram and information extraction ::.
-
     by FaLah - 0xfff0800       
     Snapchat - flaah999     
 -------------------------------
 Fetching the username info
 Brute force on the name of the email
-
 ''')
 
  
@@ -91,7 +90,7 @@ if fa == '1':
 
 
 username = input('username -> ')
-sessionsId = ('37466401585%3AHOe10KfJkNNXIF%3A27') 
+sessionsId = input('sessionsId -> ') 
 infos = getAllInfos(username,sessionsId)
 
 print("Informations about : "+infos["username"])
